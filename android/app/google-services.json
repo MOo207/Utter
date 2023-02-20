@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367425490626",
+    "project_id": "utter-411c1",
+    "storage_bucket": "utter-411c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367425490626:android:5e52bb9201456dfb29755b",
+        "android_client_info": {
+          "package_name": "com.example.utter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367425490626-a532h7jrp3o6nrm1lshhu3nsgqrq7doj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsbaMgbpIpyqMfOOYVfI3n5Qn_1T9U_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367425490626-a532h7jrp3o6nrm1lshhu3nsgqrq7doj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
